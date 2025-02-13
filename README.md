@@ -38,5 +38,5 @@ Contributions are welcome! Feel free to open issues and pull requests.
 
 ## 📬 Contact
 🔗 LinkedIn : www.linkedin.com/in/puneeth-v-naik<br>
-📧 puneethv.naik29@gmail.com  
+📧 gmail : puneethv.naik29@gmail.com  
 
